@@ -1,7 +1,7 @@
 # Bonjour, je suis Brioche !
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/inazuma-eleven-go-galaxy-inago-galaxy.gif">
 </div>
 
 </br>
@@ -19,6 +19,9 @@
 - ✨ Speedrun (futur détenteur d'un WR sur Béton Brutal)
 - ✨ Anime
 - ✨ Manga
+- <div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/pp1.gif">
+</div>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -35,28 +38,6 @@
 </br>
 </br>
 </br>
-
-
-# Mes contacts :
-
-<p>
- </br>
-
-
-Si besoin voici mon CV et mon discord.
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
-
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Brioche67&&show_icons=true&theme=radical"/>
