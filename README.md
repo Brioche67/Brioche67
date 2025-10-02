@@ -19,7 +19,7 @@
 - ✨ Speedrun (futur détenteur d'un WR sur Béton Brutal)
 - ✨ Anime
 - ✨ Manga
-- <div align="center">
+<div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
 </div>
 
