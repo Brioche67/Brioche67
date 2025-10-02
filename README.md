@@ -22,7 +22,7 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brioche67&theme=github" />
@@ -34,14 +34,5 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brioche67&theme=github" />
   </a>
 </div>
-
-</br>
-</br>
-</br>
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Brioche67&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
