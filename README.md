@@ -21,10 +21,10 @@
   <tr>
     <td valign="top" width="60%">
       <ul>
-        <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
-        <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
-        <li>- Anime</li>
-        <li>- Manga</li>
+        <li>🎮 Jeux vidéo (Inazuma Eleven enjoyer)</li>
+        <li>⚡ Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
+        <li>📺 Anime</li>
+        <li>📚 Manga</li>
       </ul>
     </td>
     <td align="right" width="40%">
