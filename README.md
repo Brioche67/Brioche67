@@ -20,21 +20,21 @@
 - Anime
 - Manga
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
+<img hight="300" width="700" alt="GIF" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
 </div>
 <br>
 #  Mes projets et compétences techniques
 
-### Domaines techniques qui me passionnent :
+### Domaines techniques qui m'intéressent :
 
-* **Développement d’applications** (desktop & web)
-* **Conception logicielle** (architecture MVC, POO)
+* **Développement d’applications**
+* **Conception logicielle**
 * **Programmation réseau & systèmes**
 * **Développement de jeux vidéo & simulations**
 
 ---
 
-### Langages & frameworks préférés :
+### Langages & frameworks :
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -66,20 +66,17 @@
 
 ---
 
-### Projets principaux (épinglés sur mon profil) :
+### Projets :
+# Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **Application de gestion (C# / .NET WinForms)** – interface graphique, base de données, CRUD complet
-* **Jeu sérieux (Unity / C#)** – gameplay éducatif avec mécaniques de progression
-* **Simulateur de réseau (C)** – topologie dynamique et communication entre nœuds
-* **Jeu DnD (Java console)** – système de combat, inventaire et personnages
+* **[Application de gestion de pompier(C# / .NET WinForms)**](https://github.com/Brioche67/fire-spirit)
+* **[Simulateur de réseau (C)**](https://github.com/Brioche67/simulation-reseau)
+* **[Jeu DnD (Java console)**](https://github.com/Brioche67/doojon-et-dragons)
 
 ---
 
 ### En ce moment je travaille sur :
-
-* 🧠 L’**optimisation** et la **logique du code**
-* 🎨 Le **game design** et les mécaniques interactives
-* 🤖 L’**IA** appliquée aux jeux et simulations
+*Desc T3 + lien
 
 ---
 
