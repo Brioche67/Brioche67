@@ -15,11 +15,10 @@
 
 ---
 
-### Mes centres d'interrêts : 
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
+### Mes centres d'interrêts :
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: top; width: 60%;">
       <ul>
         <li>🎮 Jeux vidéo (Inazuma Eleven enjoyer)</li>
         <li>⚡ Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
@@ -27,11 +26,12 @@
         <li>📚 Manga</li>
       </ul>
     </td>
-    <td align="right" width="40%">
+    <td style="border: none; text-align: right; width: 40%;">
       <img src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif" alt="GIF" height="180">
     </td>
   </tr>
 </table>
+
 
 ---
 
