@@ -9,21 +9,30 @@
 </br>
 
 
-# À propos de moi 💬 :
+# À propos de moi :
 
 ### - J'ai 19 ans, futur dévelopeur d'application actuellement en 2ème année de BUT Informatique a Robert Schuman Illkirch Grafenstaden.
 
 
 ### - Mes centres d'interrêts : 
-- Jeux vidéo (Inazuma Eleven enjoyer)
-- Speedrun (futur détenteur d'un WR sur Béton Brutal)
-- Anime
-- Manga
+
 <div align="center">
-<img hight="300" width="700" alt="GIF" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <ul>
+          <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
+          <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
+          <li>- Anime</li>
+          <li>- Manga</li>
+        </ul>
+      </td>
+      <td align="right" width="40%">
+        <img height="200" alt="GIF" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
+      </td>
+    </tr>
+  </table>
 </div>
-<br>
-#  Mes projets et compétences techniques
 
 ## Domaines techniques qui m'intéressent :
 
