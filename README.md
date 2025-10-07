@@ -17,17 +17,21 @@
 
 ### Mes centres d'interrêts : 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <ul>
-      <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
-      <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
-      <li>- Anime</li>
-      <li>- Manga</li>
-    </ul>
-  </div>
-  <img src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif" alt="GIF" height="180">
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
+        <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
+        <li>- Anime</li>
+        <li>- Manga</li>
+      </ul>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif" alt="GIF" height="180">
+    </td>
+  </tr>
+</table>
 
 ---
 
