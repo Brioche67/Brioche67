@@ -25,7 +25,7 @@
 <br>
 #  Mes projets et compétences techniques
 
-### Domaines techniques qui m'intéressent :
+## Domaines techniques qui m'intéressent :
 
 * **Développement d’applications**
 * **Conception logicielle**
@@ -34,7 +34,7 @@
 
 ---
 
-### Langages & frameworks :
+## Langages & frameworks :
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🛠️ Outils & environnements :
+## 🛠️ Outils & environnements :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
@@ -66,16 +66,16 @@
 
 ---
 
-### Projets :
-# Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
+## Projets :
+### Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **[Application de gestion de pompier(C# / .NET WinForms)**](https://github.com/Brioche67/fire-spirit)
-* **[Simulateur de réseau (C)**](https://github.com/Brioche67/simulation-reseau)
-* **[Jeu DnD (Java console)**](https://github.com/Brioche67/doojon-et-dragons)
+* **[Application de gestion de pompier(C# / .NET WinForms)**](https://github.com/Brioche67/fire-spirit)**
+* **[Simulateur de réseau (C)**](https://github.com/Brioche67/simulation-reseau)**
+* **[Jeu DnD (Java console)**](https://github.com/Brioche67/doojon-et-dragons)**
 
 ---
 
-### En ce moment je travaille sur :
+## En ce moment je travaille sur :
 *Desc T3 + lien
 
 ---
