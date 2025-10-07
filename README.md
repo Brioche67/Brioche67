@@ -11,11 +11,11 @@
 
 # À propos de moi :
 
-### J'ai 19 ans, futur dévelopeur d'application actuellement en 2ème année de BUT Informatique a Robert Schuman Illkirch Grafenstaden.
+### J'ai 19 ans, futur développeur d'applications actuellement en 2ème année de BUT Informatique à l'IUT Robert Schuman Illkirch Grafenstaden.
 
 ---
 
-### Mes centres d'interrêts :
+### Mes centres d'intérêts :
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; width: 60%;">
@@ -41,6 +41,15 @@
 * **Conception logicielle**
 * **Programmation réseau & systèmes**
 * **Développement de jeux vidéo & simulations**
+
+---
+
+## Projets :
+### Mes projets sont pour la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
+
+* **[Application de gestion de pompier(C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
+* **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
+* **[Jeu DnD (Java console)](https://github.com/Brioche67/doojon-et-dragons)**
 
 ---
 
@@ -72,13 +81,5 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-## Projets :
-### Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
-
-* **[Application de gestion de pompier(C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
-* **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
-* **[Jeu DnD (Java console)](https://github.com/Brioche67/doojon-et-dragons)**
 
 *************
