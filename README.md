@@ -11,10 +11,11 @@
 
 # À propos de moi :
 
-### - J'ai 19 ans, futur dévelopeur d'application actuellement en 2ème année de BUT Informatique a Robert Schuman Illkirch Grafenstaden.
+### J'ai 19 ans, futur dévelopeur d'application actuellement en 2ème année de BUT Informatique a Robert Schuman Illkirch Grafenstaden.
 
+---
 
-### - Mes centres d'interrêts : 
+### Mes centres d'interrêts : 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
@@ -28,6 +29,7 @@
   <img src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif" alt="GIF" height="180">
 </div>
 
+---
 
 ## Domaines techniques qui m'intéressent :
 
@@ -73,14 +75,10 @@
 ## Projets :
 ### Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **[Application de gestion de pompier(C# / .NET WinForms)]**(https://github.com/Brioche67/fire-spirit)
-* **[Simulateur de réseau (C)]**(https://github.com/Brioche67/simulation-reseau)
-* **[Jeu DnD (Java console)]**(https://github.com/Brioche67/doojon-et-dragons)
+* **[Application de gestion de pompier(C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
+* **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
+* **[Jeu DnD (Java console)](https://github.com/Brioche67/doojon-et-dragons)**
 
----
-
-## En ce moment je travaille sur :
-*Desc T3 + lien
 
 ---
 
