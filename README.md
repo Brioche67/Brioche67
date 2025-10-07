@@ -1,7 +1,7 @@
 # Bonjour, je suis Brioche !
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/inazuma-eleven-go-galaxy-inago-galaxy.gif">
+<img alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/inazuma-eleven-go-galaxy-inago-galaxy.gif">
 </div>
 
 </br>
