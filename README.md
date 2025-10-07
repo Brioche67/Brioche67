@@ -16,23 +16,18 @@
 
 ### - Mes centres d'interrêts : 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="60%">
-        <ul>
-          <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
-          <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
-          <li>- Anime</li>
-          <li>- Manga</li>
-        </ul>
-      </td>
-      <td align="right" width="40%">
-        <img height="200" alt="GIF" src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif">
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>- Jeux vidéo (Inazuma Eleven enjoyer)</li>
+      <li>- Speedrun (futur détenteur d'un WR sur Béton Brutal)</li>
+      <li>- Anime</li>
+      <li>- Manga</li>
+    </ul>
+  </div>
+  <img src="https://github.com/Brioche67/Brioche67/blob/main/!csm.gif" alt="GIF" height="180">
 </div>
+
 
 ## Domaines techniques qui m'intéressent :
 
@@ -78,9 +73,9 @@
 ## Projets :
 ### Mes projets sont la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **[Application de gestion de pompier(C# / .NET WinForms)**](https://github.com/Brioche67/fire-spirit)**
-* **[Simulateur de réseau (C)**](https://github.com/Brioche67/simulation-reseau)**
-* **[Jeu DnD (Java console)**](https://github.com/Brioche67/doojon-et-dragons)**
+* **[Application de gestion de pompier(C# / .NET WinForms)]**(https://github.com/Brioche67/fire-spirit)
+* **[Simulateur de réseau (C)]**(https://github.com/Brioche67/simulation-reseau)
+* **[Jeu DnD (Java console)]**(https://github.com/Brioche67/doojon-et-dragons)
 
 ---
 
