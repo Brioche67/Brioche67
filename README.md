@@ -81,24 +81,4 @@
 * **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
 * **[Jeu DnD (Java console)](https://github.com/Brioche67/doojon-et-dragons)**
 
-
----
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Brioche67/Brioche67/blob/main/code.gif">
-</div>
-
-<br>
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brioche67&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Brioche67&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Brioche67&theme=tokyonight" />
-  </a>
-</div>
-
 *************
