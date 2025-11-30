@@ -49,7 +49,6 @@
 
 * **[Application de gestion de pompier (C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
 * **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
-* **[Jeu DnD (Java, console)](https://github.com/Brioche67/doojon-et-dragons)**
 
 ---
 
