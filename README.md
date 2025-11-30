@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Outils & environnements :
+## Outils & environnements :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
