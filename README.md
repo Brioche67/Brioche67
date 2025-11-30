@@ -11,11 +11,11 @@
 
 # À propos de moi :
 
-### J'ai 19 ans, futur développeur d'applications actuellement en 2ème année de BUT Informatique à l'IUT Robert Schuman Illkirch Grafenstaden.
+### J'ai 19 ans, futur développeur d'applications actuellement en 2ᵉ année de BUT Informatique à l'IUT Robert Schuman Illkirch-Graffenstaden.
 
 ---
 
-### Mes centres d'intérêts :
+### Mes centres d'intérêt :
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: top; width: 60%;">
@@ -47,9 +47,9 @@
 ## Projets :
 ### Mes projets sont pour la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **[Application de gestion de pompier(C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
+* **[Application de gestion de pompier (C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
 * **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
-* **[Jeu DnD (Java console)](https://github.com/Brioche67/doojon-et-dragons)**
+* **[Jeu DnD (Java, console)](https://github.com/Brioche67/doojon-et-dragons)**
 
 ---
 
