@@ -47,7 +47,7 @@
 ## Projets :
 ### Mes projets sont pour la plupart des projets tutorés réalisés en équipe. Ce sont principalement des applications et des jeux développés dans le cadre de mon BUT Informatique.
 
-* **[Application de gestion de pompier (C# / .NET WinForms)](https://github.com/Brioche67/fire-spirit)**
+* **[Jeu Donjon et Dragons en console (C#)](https://github.com/Brioche67/doojon-et-dragons)**
 * **[Simulateur de réseau (C)](https://github.com/Brioche67/simulation-reseau)**
 
 ---
